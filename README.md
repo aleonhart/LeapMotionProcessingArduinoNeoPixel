@@ -8,11 +8,14 @@ The Arduino script handles listening to the correct serial port, and sending thi
 
 # Dependencies
 [Processing](http://processing.org/download/)
+
 [Arduino Software](http://processing.org/download/)
+
 [Leap Motion Software](https://www.leapmotion.com/setup)
 
 # Libraries
 [Leap Motion Processing](https://github.com/voidplus/leap-motion-processing)
+
 [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 
 # Licensing and Sharing
@@ -21,7 +24,9 @@ Release early, release often.
 [Licensed under Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Michelle Leonhart
+
 2014-01-30
+
 @at0mbxmb www.tinwhiskers.net
 
 
